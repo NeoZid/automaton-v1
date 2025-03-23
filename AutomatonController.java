@@ -6,6 +6,12 @@
  */
 public class AutomatonController
 {
+    /*
+     * 25. Yes, the same pattern emerges.
+     * 
+     * 
+     */
+    
     // The automaton.
     private Automaton auto;
     
